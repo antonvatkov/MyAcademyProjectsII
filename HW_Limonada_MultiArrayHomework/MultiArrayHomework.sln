@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.FillPrintMatrix", "MultiArrayHomework\01.FillPrintMatrix.csproj", "{5055CFF7-31AD-42E9-8400-CC311DC90592}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.RectangularMatrix", "RectangularMatrix\02.RectangularMatrix.csproj", "{975C437F-6CFE-4C9C-BB1A-9C50ADCF3E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.StringMatrix", "StringMatrix\03.StringMatrix.csproj", "{62B685EA-F4F6-4E08-88A9-DC4D54BA1A6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ArrayBinSearch", "ArrayBinSearch\04.ArrayBinSearch.csproj", "{506E6E0D-88AB-4348-A4FB-C66EA497DA47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.LengthArraySort", "LengthArraySort\05.LengthArraySort.csproj", "{A513363B-1B2D-4730-81F9-D22F0F2B06FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.OverloadArrayToString", "OverloadArrayToString\06.OverloadArrayToString.csproj", "{00DB2AE3-2086-446A-817B-BD6CF7CCFA86}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.LargestArea", "LargestArea\07.LargestArea.csproj", "{2A51D724-1A48-4471-ADA1-D279313E2708}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5055CFF7-31AD-42E9-8400-CC311DC90592}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5055CFF7-31AD-42E9-8400-CC311DC90592}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5055CFF7-31AD-42E9-8400-CC311DC90592}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5055CFF7-31AD-42E9-8400-CC311DC90592}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975C437F-6CFE-4C9C-BB1A-9C50ADCF3E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975C437F-6CFE-4C9C-BB1A-9C50ADCF3E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975C437F-6CFE-4C9C-BB1A-9C50ADCF3E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975C437F-6CFE-4C9C-BB1A-9C50ADCF3E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62B685EA-F4F6-4E08-88A9-DC4D54BA1A6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62B685EA-F4F6-4E08-88A9-DC4D54BA1A6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62B685EA-F4F6-4E08-88A9-DC4D54BA1A6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62B685EA-F4F6-4E08-88A9-DC4D54BA1A6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506E6E0D-88AB-4348-A4FB-C66EA497DA47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506E6E0D-88AB-4348-A4FB-C66EA497DA47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506E6E0D-88AB-4348-A4FB-C66EA497DA47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506E6E0D-88AB-4348-A4FB-C66EA497DA47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A513363B-1B2D-4730-81F9-D22F0F2B06FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A513363B-1B2D-4730-81F9-D22F0F2B06FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A513363B-1B2D-4730-81F9-D22F0F2B06FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A513363B-1B2D-4730-81F9-D22F0F2B06FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00DB2AE3-2086-446A-817B-BD6CF7CCFA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00DB2AE3-2086-446A-817B-BD6CF7CCFA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00DB2AE3-2086-446A-817B-BD6CF7CCFA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00DB2AE3-2086-446A-817B-BD6CF7CCFA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A51D724-1A48-4471-ADA1-D279313E2708}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A51D724-1A48-4471-ADA1-D279313E2708}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A51D724-1A48-4471-ADA1-D279313E2708}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A51D724-1A48-4471-ADA1-D279313E2708}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
