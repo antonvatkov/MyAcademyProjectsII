@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.UsingTryCatchFinallyExption", "HomeworkExeptionHandling\01.UsingTryCatchFinallyExption.csproj", "{9DFDA36E-E28C-4916-A78C-DAA1B87F758B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.ThrowExeption", "ThrowExeption\02.ThrowExeption.csproj", "{025F15D2-4670-4C3C-BE24-FBB6C09FADE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.AllPossibleExeption", "AllPossibleExeption\03.AllPossibleExeption.csproj", "{9598093F-5855-40B2-A61D-EAF10C36B330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.StoreFilesCatchExeption", "StoreFilesCatchExeption\04.StoreFilesCatchExeption.csproj", "{8098FC90-310C-4F41-B884-41AFD643E113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DFDA36E-E28C-4916-A78C-DAA1B87F758B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DFDA36E-E28C-4916-A78C-DAA1B87F758B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DFDA36E-E28C-4916-A78C-DAA1B87F758B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DFDA36E-E28C-4916-A78C-DAA1B87F758B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{025F15D2-4670-4C3C-BE24-FBB6C09FADE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{025F15D2-4670-4C3C-BE24-FBB6C09FADE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{025F15D2-4670-4C3C-BE24-FBB6C09FADE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{025F15D2-4670-4C3C-BE24-FBB6C09FADE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9598093F-5855-40B2-A61D-EAF10C36B330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9598093F-5855-40B2-A61D-EAF10C36B330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9598093F-5855-40B2-A61D-EAF10C36B330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9598093F-5855-40B2-A61D-EAF10C36B330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8098FC90-310C-4F41-B884-41AFD643E113}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8098FC90-310C-4F41-B884-41AFD643E113}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8098FC90-310C-4F41-B884-41AFD643E113}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8098FC90-310C-4F41-B884-41AFD643E113}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
